@@ -8,5 +8,7 @@ elif name.endswith('xiang'):
     print('Hello xiang')
 elif name.endswith('xiang'):
     print('Hello xiang')
+elif name.endswith('shengx'):
+    print('Hello sheng')
 else:
     print('Hello Strange')
